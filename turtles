@@ -1,0 +1,9 @@
+Initial NetLogo practice models
+to ready
+ca
+crt 1
+ask turtles[set heading 0]
+end
+
+ready
+fd 10
